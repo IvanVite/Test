@@ -15,9 +15,9 @@
 			<a href="<%=application.getAttribute("ABSOLUTEURL")%>index.jsp">MENU</a>
 				<p>Organizacion: </p>
 							<ul>
-							<!--li><a href="index.jsp?pagina=gd">Nueva organizaci髇</a></li-->
-							<li><a href="index.jsp?pagina=ro">Nueva Organizaci髇</a></li>
-							<li><a href="index.jsp?pagina=lo">Informaci髇 Organizaci髇</a></li>
+							<!--li><a href="index.jsp?pagina=gd">Nueva organizaci贸n</a></li-->
+							<li><a href="index.jsp?pagina=ro">Nueva Organizaci贸n</a></li>
+							<li><a href="index.jsp?pagina=lo">Informaci贸n Organizaci贸n</a></li>
 							</ul>
 				<p>Empleados</p>
 						<ul>
